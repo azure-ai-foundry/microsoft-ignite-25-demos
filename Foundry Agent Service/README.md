@@ -8,33 +8,33 @@ Theme: Innovate with Azure AI Apps and Agents
 Focus: Foundry Agent Service, Agent Framework, orchestration tools, governance, and demos.
 
 ## Roles and Responsibilities
-### Early Access:###Use Monday (Nov 17) pre-day hub access (8 AM–5 PM) to set up your station and demos.
+### Early Access:Use Monday (Nov 17) pre-day hub access (8 AM–5 PM) to set up your station and demos.
 
-### Shift Check-In:###Required at the start of each shift at the Expert Shift Check-In Desk (behind South Lobby escalators) or via ERL/Teams for remote areas.
+### Shift Check-In:Required at the start of each shift at the Expert Shift Check-In Desk (behind South Lobby escalators) or via ERL/Teams for remote areas.
 For Azure AI check in report on-site to @Laura Wolf
 
-### During Your Shift:###
+### During Your Shift:
 Stay at your assigned station for the entire shift. 
 Coordinate breaks with ERL or fellow experts. 
 Keep personal items minimal and store them in cabinets.
 
-### Engagement:###
+### Engagement:
 Actively engage attendees, answer questions, and share expertise. 
 Familiarize yourself with related sessions and content. 
 Use conversation counters to track interactions and Contact Me QR codes for follow-up leads.
 
-### Demo Prep:###
+### Demo Prep:
 Bring content on USB-C or personal device; HDMI adapters recommended. 
 Event devices (Surface Pro 11 or Surface Laptop 6) provided but no Corpnet access—plan accordingly.
 
-### Professionalism:###
+### Professionalism:
 Wear comfortable, professional attire (Ignite hoodie suggested). 
 Avoid logos or slogans outside Microsoft/partner branding
 
 ## Meet the Experts Booth Content
 Content to help experts prepare for staffing the Azure AI Tools booth at Ignite 2025.
 
-##Sessions
+## Sessions 
 Hero BRK 189:AI agents in Azure AI Foundry, ship fast, scale fearlessly
 Hero BRK 195:Making Smarter Model Choices in Azure AI Foundry
 Hero BRK 205:AI Operations to own the fleet, master the mission in Azure AI FoundrY
