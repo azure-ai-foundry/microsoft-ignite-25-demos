@@ -23,23 +23,23 @@ Lead: JJ Kim
 
 
 # Content
-Let your agentic apps talk with Azure Speech  
+### Let your agentic apps talk with Azure Speech  
 Thu Nov 20 | BRK 198 | 2:15-3:00 PM PST Moscone West, Level 2, Room 2005
 
-Conversational AI avatars with Voice Live API in Azure AI Foundry  
+### Conversational AI avatars with Voice Live API in Azure AI Foundry  
 Thu Nov 20 | THR 720 | 1:30-2:00 PM PST Moscone West, Level 3, Theatre E
 
-AI tools for agents in Azure AI Foundry: Plug, play and reach  
+### AI tools for agents in Azure AI Foundry: Plug, play and reach  
 Thu Nov 20 | BRK 192 | 8:30-9:15 AM PST Moscone West, Level 2, Room 2020
 
-Driving agentic innovation with MCP as the backbone of tool-aware AI  
+### Driving agentic innovation with MCP as the backbone of tool-aware AI  
 Thu Nov 20 | BRK 194 | 5:00-5:45 PM PST Moscone West, Level 2, Room 2020
 
 
 # Shift Guidance (Condensed KBYG)
 - Shift Location: 
 	- Moscone Center
-    - Exhibit Level (below ground level) “The Hub”
+    - "The Hub" (Exhibit Level/below ground)
 	- “Microsoft Showcase” (Southern-most part of the Hub) 
 	-  “Cloud and AI Platforms” (Eastern-most part of Microsoft Showcase)
 	- “AI Apps and Agents” (Western-most part of Cloud and AI Platforms)
