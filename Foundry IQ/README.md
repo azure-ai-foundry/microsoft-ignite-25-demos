@@ -16,11 +16,11 @@ Welcome to the Microsoft Ignite 2025 Foundry IQ Expert Meet Up Station! We’re 
 * Professionalism: Wear comfortable, professional attire and shoes. Avoid logos or slogans outside Microsoft and partner branding.
   
 <p align="center">
-<img width="794" height="468" alt="image" src="https://github.com/user-attachments/assets/c69024d6-2e86-42d8-8c6c-947ac81cc97b" />
+<img width="1324" height="743" alt="image" src="https://github.com/user-attachments/assets/1f42da77-a9a7-4ba9-8d16-c7edb4ab67dd" />
 
 <img width="1324" height="743" alt="image" src="https://github.com/user-attachments/assets/4998044f-adee-47d0-a1bb-aea05b27da32" />
 
-<img width="1321" height="742" alt="image" src="https://github.com/user-attachments/assets/67d24c74-f2c7-4710-b727-093fc6787570" />
+<img width="1324" height="743" alt="image" src="https://github.com/user-attachments/assets/67d24c74-f2c7-4710-b727-093fc6787570" />
 </p>
 
 ## Station Resources
@@ -51,5 +51,5 @@ More will be announced on the day of Ignite 2025.
 
 ## Ignite 2025 Foundry IQ Sessions
 <p align="center">
-<img width="788" height="397" alt="image" src="https://github.com/user-attachments/assets/9a47629a-f04b-41bb-9c0d-99b7ad9001f0" />
+<img width="1118" height="562" alt="image" src="https://github.com/user-attachments/assets/f329e9bc-992c-465b-9702-51df00db0757" />
 </p>
