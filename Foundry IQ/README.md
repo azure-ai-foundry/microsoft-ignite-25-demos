@@ -1,7 +1,7 @@
 # Foundry IQ
 Welcome to the Microsoft Ignite 2025 Foundry IQ Expert Meet Up Station! We’re thrilled to offer this incredible opportunity for you to connect with attendees through engaging one-on-one or small group conversations about the latest Foundry IQ innovations. At the Expert Meet Up, you’ll have the chance to answer questions and share your expertise, showcase demos and product decks, and keep attendees informed on the newest event updates and product announcements. Each station will be powered by our outstanding MVPs, session speakers, and subject matter experts—ready to deliver insights and spark meaningful discussions.
 
-## Ignite 2025 Foundry IQ Announcements 
+## Ignite 2025 Foundry IQ Announcements (Under EMBARGO)
 * **Foundry IQ** points agents to a knowledge base that accesses multiple sources, fully integrated with Agent Service to keep agents on task through an all-in-one RAG (Retrieval-Augmented Generation) agent.
 * **Knowledge bases** maintain agent task focus with a all-in-one RAG expert, enabling access to remote or indexed sources via a multi-source agentic retrieval engine. Users can also create knowledge bases directly in the Foundry portal.
 * **Knowledge sources** access selected remote or indexed sources with support of sources selected and agentic RAG engine as well as automatic index creation, transofrmation, and refresh.
@@ -20,7 +20,7 @@ Welcome to the Microsoft Ignite 2025 Foundry IQ Expert Meet Up Station! We’re 
 </p>
 
 ## Station Resources
-**Under NDA**: Please keep these resources and the repository strictly confidential in the meantime. On Tuesday, November 18th, during Ignite 2025, you’ll have the opportunity to present and share these materials with attendees at the Foundry IQ Expert Meet Up Station. Within this **Foundry IQ** repo folder, you will find the following resources:
+**Under EMBARGO**: Please keep these resources and the repository strictly confidential in the meantime. On Tuesday, November 18th, during Ignite 2025, you’ll have the opportunity to present and share these materials with attendees at the Foundry IQ Expert Meet Up Station. Within this **Foundry IQ** repo folder, you will find the following resources:
 
 ### Internal
 * Ignite 2025 EMU Foundry IQ Know Before You Go (KBYG)
