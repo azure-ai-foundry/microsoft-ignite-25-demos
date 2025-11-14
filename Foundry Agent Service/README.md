@@ -3,8 +3,11 @@
 Welcome to the Foundry Agents Station! This is your hub for showcasing the latest innovations in Azure AI Foundry Agents, engaging with attendees, and answering technical questions about Foundry Agents, Multi-agent orchestration, Hosted Agents, Foundry workflows, Foundry Agents Tools and enterprise AI adoption.
 
 ## Station Overview
-Location: Meet the Experts Area, Microsoft Ignite HUB
-Theme: Innovate with Azure AI Apps and Agents
+
+Location: Meet the Experts Area, Microsoft Ignite HUB.
+
+Theme: Innovate with Azure AI Apps and Agents.
+
 Focus: Foundry Agent Service, Agent Framework, orchestration tools, governance, and demos.
 
 ## Where to go
