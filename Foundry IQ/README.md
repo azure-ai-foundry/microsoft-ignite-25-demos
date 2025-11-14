@@ -2,10 +2,10 @@
 Welcome to the Microsoft Ignite 2025 Foundry IQ Expert Meet Up Station! We’re thrilled to offer this incredible opportunity for you to connect with attendees through engaging one-on-one or small group conversations about the latest Foundry IQ innovations. At the Expert Meet Up, you’ll have the chance to answer questions and share your expertise, showcase demos and product decks, and keep attendees informed on the newest event updates and product announcements. Each station will be powered by our outstanding MVPs, session speakers, and subject matter experts—ready to deliver insights and spark meaningful discussions.
 
 ## Ignite 2025 Foundry IQ Announcements 
-* Foundry IQ points agents to a knowledge base that accesses multiple sources, fully integrated with Agent Service to keep agents on task through an all-in-one RAG (Retrieval-Augmented Generation) agent.
-* Knowledge bases maintain agent task focus with a all-in-one RAG expert, enabling access to remote or indexed sources via a multi-source agentic retrieval engine. Users can also create knowledge bases directly in the Foundry portal.
-* Knowledge sources access selected remote or indexed sources with support of sources selected and agentic RAG engine as well as automatic index creation, transofrmation, and refresh.
-* Agentic RAG engine is an AI-powered retrieval for 40% better relevance OOTB, retrieval steeting, retrieval reasoning effort, iterative search, and answer synthesis.
+* **Foundry IQ** points agents to a knowledge base that accesses multiple sources, fully integrated with Agent Service to keep agents on task through an all-in-one RAG (Retrieval-Augmented Generation) agent.
+* **Knowledge bases** maintain agent task focus with a all-in-one RAG expert, enabling access to remote or indexed sources via a multi-source agentic retrieval engine. Users can also create knowledge bases directly in the Foundry portal.
+* **Knowledge sources** access selected remote or indexed sources with support of sources selected and agentic RAG engine as well as automatic index creation, transofrmation, and refresh.
+* **Agentic RAG engine** is an AI-powered retrieval for 40% better relevance OOTB, retrieval steeting, retrieval reasoning effort, iterative search, and answer synthesis.
 * Entra ID document level acces with Microsoft Purview. 
 
 ## Station Roles & Responsibilites
