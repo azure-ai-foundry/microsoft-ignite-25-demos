@@ -69,21 +69,19 @@ THR723 - How Azure AI Agents Are Redefining Customer Experience
 ## At the booth
 #### IMPORTANT were at the booth use the conversation counters to track how many people visit the booth. Also invite them to share product feedback using the QR code in this section.
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6c4b8571-af3e-4b76-87e4-a7b74b5b503e" />
-
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4f01a37f-2126-4cec-9dd9-802bdbc662a7" />
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2244a99b-65fe-4765-9b9a-beb4342f7175" />
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/823a675e-7ea3-4304-a6a8-d1c113ff0b24" />
 
-## Decks
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6c4b8571-af3e-4b76-87e4-a7b74b5b503e" />
 
-## Running Demos
+## Decks
+https://github.com/azure-ai-foundry/microsoft-ignite-25-demos/blob/main/Foundry%20Agent%20Service/Content.md
 
 ## #MSIgnite Social Guidance
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/869c4099-122e-497e-bca9-b865523ea3cd" />
-
 
 ## Announcement Blogs
 To be updated on 11/18 after Keynote session
