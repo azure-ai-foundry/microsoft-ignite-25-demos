@@ -20,7 +20,7 @@ Welcome to the Microsoft Ignite 2025 Foundry IQ Expert Meet Up Station! We’re 
 </p>
 
 ## Station Resources
-Under NDA - please keep these resources and repo confidential. On the day of Ignite 2025 on Tuesday, November 18th you'll be able to present and share these resources with customers at the Foundry IQ Expert Meet Up Station. In this repo folder "Foundry IQ" you will find the following resources.
+**Under NDA**: Please keep these resources and the repository strictly confidential in the meantime. On Tuesday, November 18th, during Ignite 2025, you’ll have the opportunity to present and share these materials with customers at the Foundry IQ Expert Meet Up Station. Within this **Foundry IQ** repo folder, you will find the following resources:
 
 ### Internal
 * Ignite 2025 EMU Foundry IQ Know Before You Go (KBYG)
