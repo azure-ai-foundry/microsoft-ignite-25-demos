@@ -10,7 +10,7 @@ https://www.bing.com/ck/a?!&&p=1f849929270a4f5b21899f838dca3af32c605462947020e10
 
 Build your code-first agent: https://microsoft.github.io/build-your-first-agent-with-azure-ai-agent-service-workshop/resources/
 
-# Foundry Portal New UI/UXZ for demoing
+# Foundry Portal New UI/UX for demoing
 
 aka.ms/nextgen-workflow
 
