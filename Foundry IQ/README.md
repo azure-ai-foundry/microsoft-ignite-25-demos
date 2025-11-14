@@ -17,6 +17,10 @@ Welcome to the Microsoft Ignite 2025 Foundry IQ Expert Meet Up Station! We’re 
   
 <p align="center">
 <img width="794" height="468" alt="image" src="https://github.com/user-attachments/assets/c69024d6-2e86-42d8-8c6c-947ac81cc97b" />
+
+<img width="1324" height="743" alt="image" src="https://github.com/user-attachments/assets/4998044f-adee-47d0-a1bb-aea05b27da32" />
+
+<img width="1321" height="742" alt="image" src="https://github.com/user-attachments/assets/67d24c74-f2c7-4710-b727-093fc6787570" />
 </p>
 
 ## Station Resources
