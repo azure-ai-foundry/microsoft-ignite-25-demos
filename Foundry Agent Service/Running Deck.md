@@ -1,4 +1,6 @@
 ## Running Deck for the Station
 
 The deck will be uploaded in the laptop at the station, please do not make any editions, neither copy the slides. 
-The content is ONLY for use at MIcrosoft Ignite 2025
+The content is ONLY for use at Microsoft Ignite 2025
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b9e6fb4b-3d3b-438f-a2d6-ace8dacd4ee0" />
