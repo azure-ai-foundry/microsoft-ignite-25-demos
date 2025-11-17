@@ -36,6 +36,7 @@ What is Expert Meet-up? It's your opportunity to engage in interactive one-on-on
 ## Documentation
 - https://aka.ms/AgentFramework
 - https://aka.ms/FoundryIQ
+- https://aka.ms/AgenticFactory
 - https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/up-to-40-better-relevance-for-complex-queries-with-new-agentic-retrieval-engine/4413832
 
 
