@@ -35,6 +35,9 @@ Welcome to the Microsoft Ignite 2025 Foundry IQ Expert Meet Up Station! We’re 
 * Ignite 2025 EMU Foundry IQ Demo
 * Code sample notebooks (links below)
 
+### Foundry IQ Demo Video
+* https://microsoft.sharepoint.com/:v:/t/AAAITeam/IQAixeIl2JyeSLqGZiWbRVm7AasoOubVxMvHcoG-_ZYE92w?e=2izYiH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ### Python Sample Notebook
 * https://github.com/Azure-Samples/azure-search-python-samples/blob/main/Quickstart-Agentic-Retrieval/quickstart-agentic-retrieval.ipynb
 
