@@ -50,7 +50,7 @@ Welcome to the Microsoft Ignite 2025 Foundry IQ Expert Meet Up Station! We’re 
 ### Documentation Links
 More will be announced on the day of Ignite 2025.
 * aka.ms/FoundryIQ
-* https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/up-to-40-better-relevance-for-complex-queries-with-new-agentic-retrieval-engine/4413832
+* https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/foundry-iq-boost-response-relevance-by-36-with-agentic-retrieval/4470720
 
 ## Ignite 2025 Foundry IQ Sessions
 <p align="center">
