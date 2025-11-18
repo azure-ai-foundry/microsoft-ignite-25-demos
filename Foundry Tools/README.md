@@ -65,16 +65,27 @@ Thu Nov 20 | BRK 198 | 2:15-3:00 PM PST Moscone West, Level 2, Room 2005
 - [Ignite Expert KBYG Recording](https://microsoft.sharepoint.com/teams/MicrosoftIgniteSpeakerExpertResources/_layouts/15/stream.aspx?id=%2Fteams%2FMicrosoftIgniteSpeakerExpertResources%2FShared+Documents%2FExpert+Staffing%2FExpert+KBYG+Resources%2FMicrosoft+Ignite+Expert+Staffing+KBYG_Meeting+Recording+11.5.25.mp4&startedResponseCatch=true&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.cce1d5ce-0d57-4f34-a4be-d02590c40856)
 
 # Demos:
-- [Foundry Tools Catalogue]
-- [API Portal]
-- [Voice Live API]
+- Foundry Tools Catalogue, link to come
+	- Slide 27
+- MCP Servers/API Portal, link to come
+  	- Slide 29
+- Voice Live API, link to come
+  	- Slide 48
 - [Content Understanding](https://ai.azure.com/resource/contentunderstanding/overview?wsid=%2Fsubscriptions%2F21039746-6e73-4627-88af-efa80f856c2c%2FresourceGroups%2FEve_Team%2Fproviders%2FMicrosoft.CognitiveServices%2Faccounts%2FEveTeamFoundryRG%2Fprojects%2FEveTeamFoundryMainProject&tid=72f988bf-86f1-41af-91ab-2d7cd011db47)
+- Translator Demo
+	- Slide 52 
 
 # Content TLDR:
 - Public Preview: LLM Speech | Tools Catalogue | Azure Translation: Image Translation | LLM Speech API | Voice Live Photo Avatar
 - GA: Foundry Tools | Azure Content Understanding: BYO Mode | Live Interpreter API, Adaptive Custom Translation | Azure Language PII Detection, Conversational Language Understanding | Voice Live BYO
 - Look through the Booth Deck above, and read the slide notes for more context. In particular:
-	- Slide
+	- Slide 17 to understand local vs. remote MCP servers
+ 	- Slide 19 to preview Foundry Tools
+	- Slide 22 to address operationalizing agents at scale
+ 	- Slide 24 to understand Azure API Center for private MCP registry
+ 	- Slide 31 to understand how BYO works with Content Understanding
+ 	- Slide 35 for overview of Tools updates and releases
+ - Review demos above
 
 
 # Need to Know:
