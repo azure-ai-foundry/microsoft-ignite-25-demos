@@ -19,8 +19,7 @@ Lead: JJ Kim
 - Vinod Kurpad, Principal Group PM  
 
 # Schedule
-  <img width="471" height="790" alt="image" src="https://github.com/user-attachments/assets/954ff685-3ce7-42f7-8dec-fdabcbd21c6e" />
-
+<img width="349" height="893" alt="image" src="https://github.com/user-attachments/assets/b28d44f1-9bda-4246-b813-2cf27af0c487" />
 
 # Content
 
