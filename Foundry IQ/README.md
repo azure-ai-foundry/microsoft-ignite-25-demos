@@ -31,12 +31,9 @@ On Tuesday, November 18th, during Ignite 2025, you’ll have the opportunity to 
 * Ignite 2025 EMU Foundry IQ Know Before You Go (KBYG)
 * GENERAL Microsoft Ignite Expert KBYG Deck.pdf
 
-### Attendee-Facing
+### Attendee-Facing Deck & Demo
 * Ignite 2025 EMU Foundry IQ Station Deck
-* Ignite 2025 EMU Foundry IQ Demo
-
-### Foundry IQ Demo 
-* https://azure-ai-search-knowledge-retrieval.vercel.app/
+* Demo Link: https://azure-ai-search-knowledge-retrieval.vercel.app/
 
 ### Documentation Links
 More will be announced on the day of Ignite 2025.
